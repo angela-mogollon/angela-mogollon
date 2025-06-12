@@ -27,6 +27,6 @@
 ---
 
 ### 📫 Conéctate conmigo:
-- [LinkedIn](linkedin.com/in/angela-julieth-mogollón-cifuentes-3194611b7)
+- [LinkedIn]([linkedin.com/in/angela-julieth-mogollón-cifuentes-3194611b7](https://www.linkedin.com/in/angela-julieth-mogoll%C3%B3n-cifuentes-3194611b7/))
 - Correo: angelaj123474@gmail.com
 
