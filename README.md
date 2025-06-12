@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Angela Mogollón 👩‍💻
 
-<!--
-**angela-mogollon/angela-mogollon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnica en Programación de Software y estudiante de Ingeniería de Sistemas  
+📊 Interesada en Análisis de Datos | BI | QA | UX/UI  
+📍 Bogotá, Colombia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mí
+
+- 🌱 Actualmente aprendiendo: Power BI, Python para análisis de datos, y fundamentos de QA
+- 👩‍💻 Me gusta trabajar en proyectos donde pueda combinar tecnología y experiencia de usuario
+- 📚 Certificada por Cisco Networking Academy en fundamentos de redes
+- 💬 Me apasiona el aprendizaje continuo y la mejora constante
+
+---
+
+### 🛠️ Tecnologías que estoy explorando
+
+- Python (básico)
+- HTML, CSS, JavaScript
+- Power BI
+- Excel / Word
+- Git y GitHub (en proceso de aprendizaje)
+- QA básico | UX / UI
+
+---
+
+### 📫 Conéctate conmigo:
+- [LinkedIn](linkedin.com/in/angela-julieth-mogollón-cifuentes-3194611b7)
+- Correo: angelaj123474@gmail.com
+
